@@ -28,29 +28,29 @@ The MNIST Fashion dataset contains 60,000 training images and 10,000 testing ima
 
 Make sure to have the following dependencies installed:
 
-\`\`\`bash
+```bash
 pip install tensorflow matplotlib
-\`\`\`
+```
 
 ## Usage
 
 1. Clone the repository:
 
-\`\`\`bash
+```bash
 git clone https://github.com/your-username/mnist-fashion-cnn.git
-\`\`\`
+```
 
 2. Navigate to the project directory:
 
-\`\`\`bash
+```bash
 cd mnist-fashion-cnn
-\`\`\`
+```
 
 3. Run the Jupyter notebook:
 
-\`\`\`bash
+```bash
 jupyter notebook mnist_fashion_classification.ipynb
-\`\`\`
+```
 
 4. Follow the instructions in the notebook to train and test the CNN model.
 
