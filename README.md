@@ -65,3 +65,8 @@ This project is inspired by the MNIST Fashion dataset and the need for understan
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details." > README.md
+
+## Demo
+
+[streamlit-main-2024-02-07-13-02-23.webm](https://github.com/figo2001/MNIST_fashion/assets/78696850/f7481530-7fee-444d-bef5-9723a9f7674f)
+
